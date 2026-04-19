@@ -1,0 +1,4 @@
++10 miles	587881 trajets
+0-1 miles	3316638 trajets
+1-5 miles	7741903 trajets
+5-10 miles	1023199 trajets
