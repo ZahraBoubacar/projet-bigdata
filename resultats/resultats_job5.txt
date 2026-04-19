@@ -1,0 +1,4 @@
+Aucun frais	38632 trajets
+Carte bancaire	7881388 trajets
+Cash	4816992 trajets
+Litige	11972 trajets
